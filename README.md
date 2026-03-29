@@ -5,12 +5,12 @@ draw arbitrary steel cross-sections and instantly compute their
 structural properties — built during a 4-month internship and 
 currently used by engineers at the company.
 
-**Status:** Deployed and in active use
+**Status:** Deployed and in active use by employees within the company
 
 
 ## Demo
 
-[video here]
+https://youtu.be/KSRHjWEWY3I
 
 
 ## What It Does
